@@ -1,5 +1,5 @@
 Este projeto destina-se ao estudo do DBUnit
 
-Usa Maven 2.2 e JUnit 4.
+Usa Maven 2.2, JUnit 4 e MySQL 5.0.
 
-O  banco de dados é o MySQL 5.0 e o banco de exemplo é o Sakila (http://dev.mysql.com/doc/sakila/en/sakila.html)
+O  banco de dados e´ o MySQL 5.0 e o banco de exemplo e´ o Sakila (http://dev.mysql.com/doc/sakila/en/sakila.html)
